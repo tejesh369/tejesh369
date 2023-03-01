@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejesh369
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on senior software developers
+- 💞️ I’m interested in web development
 - 📫 How to reach me-send mail to me
 
 <!---
